@@ -1,0 +1,1 @@
+:not(.dont):not(:has(.dont))::selection{background:pink}
