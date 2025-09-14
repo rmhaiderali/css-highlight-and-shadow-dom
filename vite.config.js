@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react-swc"
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/css-highlight-pseudo-elements-inheritance-and-shadow-dom",
+  base: "/css-highlight-and-shadow-dom",
 })
